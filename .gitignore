@@ -1,0 +1,4 @@
+#ignore unwanted files
+
+docs/build/
+docs/source/_templates/
